@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main() 
 {
@@ -59,20 +59,4 @@ while(koniec=='n');
 return 0;
 }
 
-/*
-for(j=1; j<=a; j++)
-{
 
-     for (i=1; i<=b; i++)
-     {
-      printf("%d\t",i*j);
-     }
-
-printf("\n");
-}
-
-
-return 0;
-}
-
-*/
